@@ -46,3 +46,6 @@ dependencies {
 |setDotLayoutConfig()|使用回调配置小圆点布局,方便特殊时候自定义|
 |setOnBinerListener()|使用此回调自行配置布局,可自己设计卡片样式|
 |setOnPageChangeListener()|卡片切换事件|
+|setOnItemViewClickListener()|条目点击事件|
+|setViewpagerConfig()|回调出viewpager本体,特殊需求时自行操作|
+|setCirculationModeOptions()|传入CirculationModeOptions对象,设置是否自动轮播,是否无限循环,卡片切换时间|
