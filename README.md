@@ -36,5 +36,13 @@ dependencies {
                         .setRepeat(true)));
 ```
 
-|params|参数使用|
+|METHOD|  |
 |:---|:---|
+|setBanList() | view或者图片地址的集合,可混合传入|
+|setNotInterceptTouch()|是否阻断手指触摸事件|
+|setRelativeLayout()| 一个空的RelativeLayout|
+|setCardViewOptions()|传入CardModeOptions对象,配置是否显示卡片模式和PageTransformer切换特效|
+|setDotOptions()|传入DotOptions对象,可配置小圆点的显示隐藏、选中颜色和未选中颜色、小圆点的大小、显示位置(左中右)|
+|setDotLayoutConfig()|使用回调配置小圆点布局,方便特殊时候自定义|
+|setOnBinerListener()|使用此回调自行配置布局,可自己设计卡片样式|
+|setOnPageChangeListener()|卡片切换事件|
