@@ -2,7 +2,7 @@
 
 ![](https://github.com/liugongce/banner/blob/master/banner.gif)
 
-##download
+## download
 
 Step 1. Add the JitPack repository to your build file 
 
