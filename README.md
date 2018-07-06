@@ -1,5 +1,5 @@
 # banner
-
+## show
 ![](https://github.com/liugongce/banner/blob/master/banner.gif)
 
 ## download
