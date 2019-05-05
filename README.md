@@ -18,7 +18,7 @@ Step 2. Add the dependency
 
 ```
 dependencies {
-		implementation 'com.github.User:Repo:Tag'
+		implementation 'com.github.liugongce:banner:1.0'
 	}
 ```
 ## usage
